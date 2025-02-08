@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **School and personal projects**
 - 👨‍💻 I post all my projects here so that later I can improve them, show them off to people, or even with the aim of helping others.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
