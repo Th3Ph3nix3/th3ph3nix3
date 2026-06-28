@@ -1,7 +1,7 @@
 <div align="center">
 
 # Th3\_Ph3nix
-### `❯ student.dev @ FR · Develop First, Then Protect`
+### `❯_ student.dev @ FR · Develop First, Then Protect`
 
 ![CS Student](https://img.shields.io/badge/🎓_CS_Student-0d1117?style=flat-square&logoColor=58a6ff&color=161b22&labelColor=161b22)
 ![Open Source](https://img.shields.io/badge/🔥_Open_Source-0d1117?style=flat-square&color=161b22&labelColor=161b22)
