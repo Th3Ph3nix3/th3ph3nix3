@@ -1,11 +1,56 @@
-<h1 align="center">Hi 👋, I'm Th3_Ph3nix</h1>
-<h3 align="center">I am a French computer science student</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **School and personal projects**
-- 👨‍💻 I post all my projects here so that later I can improve them, show them off to people, or even with the aim of helping others.
+# Th3\_Ph3nix
+### `❯ student.dev @ FR · Develop First, Then Protect`
 
-<p align="left">
-</p>
+![CS Student](https://img.shields.io/badge/🎓_CS_Student-0d1117?style=flat-square&logoColor=58a6ff&color=161b22&labelColor=161b22)
+![Open Source](https://img.shields.io/badge/🔥_Open_Source-0d1117?style=flat-square&color=161b22&labelColor=161b22)
+![France](https://img.shields.io/badge/📍_France-0d1117?style=flat-square&color=161b22&labelColor=161b22)
+![Always building](https://img.shields.io/badge/🛠_Always_building-0d1117?style=flat-square&color=161b22&labelColor=161b22)
+![Open to collabs](https://img.shields.io/badge/🟢_Open_to_collabs-0d1117?style=flat-square&color=161b22&labelColor=161b22)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+```python
+class Th3_Ph3nix:
+    location   = "France 🇫🇷"
+    status     = "IT Student · always learning"
+    open_to    = ["collaborations", "reviews", "new opportunities"]
+    philosophy = "Trial new things and try everything"
+```
+
+---
+
+## // About me
+
+I'm a French computer science student who's always looking to learn new things.
+I post everything here: school projects and personal experiments,
+because **I learn from others, but in return, others should be able to expect something from me**, and each submission is a snapshot of my progress (or my crazy ideas).
+If what I've created can help you, that's all that matters.
+
+## // Currently
+
+- 🔭 **Focus** → School & personal projects
+- 🌱 **Learning** → Always something new
+- 💬 **Open to** → Collaborations & feedback
+
+## // Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-178600?style=flat-square&logo=csharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+<div align="center">
+<sub>Built with 🔥 by Th3_Ph3nix · Always Learning</sub>
+</div>
