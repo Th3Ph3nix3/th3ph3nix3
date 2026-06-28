@@ -49,6 +49,16 @@ If what I've created can help you, that's all that matters.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+## // GitHub stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Th3Ph3nix3&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9&ring_color=f78166)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Ph3nix3&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
+
 ---
 
 <div align="center">
